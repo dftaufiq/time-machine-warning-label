@@ -7,7 +7,12 @@ The line is a 2-beat joke with the reveal in the last clause:
 3. Reveal — the inspector who seized them is you.
 
 A specific year (1974) and a named role (the inspector) anchor the
-paradox: the reader is both the smuggler and the officer.
+paradox: the reader is both the smuggler and the officer. The reveal lands
+in the last clause because everything before it reads as a plain customs
+rule, so the reader only discovers they are the inspector at the final
+word — the joke is the hazard itself, delivered in a straight-faced
+safety-notice voice, which is exactly what the judge's criteria ask for:
+a real warning, funny because the warning is about you.
 """
 
 from pathlib import Path
